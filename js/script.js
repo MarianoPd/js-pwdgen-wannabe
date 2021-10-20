@@ -16,7 +16,8 @@ let outputS =
 `
     <span>Your new password is:</span><br>
     <h1>${secretPassword}</h1>
-    <span> Please use it carefully </span>  
+    <span> Please use it carefully </span>
+    <p>The leignt of your password is: ${passwordLeight}  WOOOW!!!</p>  
 
 `
 document.getElementById('output').innerHTML = outputS;
