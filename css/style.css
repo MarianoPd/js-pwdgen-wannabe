@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* header */
+.mp-bg-h{
+    background-color: cadetblue;
+}
+
+
+/* main  */
+
+.mp-bg-m{
+    background-color: cornsilk;
+    min-height: 500px;
+    padding-top: 100px;
+}
+
+.mp-bg-m h1{
+    color: darkmagenta;
+}
+
+/* footer */
+
+.mp-bg-f{
+    background-color: cadetblue;
+}
